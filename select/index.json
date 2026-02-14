@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "だきしめるまで。",
+  "base_artist": "MIMI",
+  "createdAt": "2026-02-14T15:32:46.493635Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "だきしめるまで。",
+      "artist": "MIMI, 可不",
+      "has_synced": false,
+      "path": "select/pl_01_だきしめるまで。_MIMI,_可不.txt"
+    }
+  ]
+}
